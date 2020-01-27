@@ -1,5 +1,10 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+MODULE_AUTHOOR("Ryuichi Ueda");
+MODULE_DESCRIPTION("count of number");
+MODULE_LICENSE("GPLv3");
+MODULE_VERSION("0.0.1");
+
 import rospy, os
 import SimpleHTTPServer
 
