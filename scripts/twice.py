@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 MODULE_AUTHOOR("Ryuichi Ueda");
 MODULE_DESCRIPTION("count of number");
-MODULE_LICENSE("GPL3");
+MODULE_LICENSE("GPLv3");
 MODULE_VERSION("0.0.1");
 
 import rospy
